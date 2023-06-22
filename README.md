@@ -7,7 +7,7 @@
 Because Ford cheaped out on us by using 19th century bulbs!
 
 ## Cargo area/boot
-Bulb type:
+Bulb type: 194 / T10
 
 ## Glove box
 Bulb type:
@@ -15,5 +15,5 @@ Bulb type:
 ## Puddle lights
 Bulb type: 
 
-## Rear blinkers/indicators
-Bulb type:
+## 🟠 Rear blinkers/indicators
+Bulb type: 2x ???
