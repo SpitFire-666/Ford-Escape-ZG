@@ -1,6 +1,6 @@
 # Ford-Escape-ZG
 
-![image](https://github.com/SpitFire-666/Ford-Escape-ZG/assets/38451588/6af40738-a594-470f-bcfe-a963a5fda573)
+![image](https://github.com/SpitFire-666/Ford-Escape-ZG/assets/38451588/b2c82396-418e-437e-a336-bf9ee9b5812d)
 
 
 # 💡 Lighting
