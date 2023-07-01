@@ -10,7 +10,7 @@ Because Ford cheaped out on us by using 19th century bulbs!
 Bulb type: 194 / T10 (TBC)
 
 ## Glove box
-Bulb type:
+Bulb type: 
 
 ## 💦 Puddle lights
 These are on the underside of the door mirrors
@@ -21,13 +21,13 @@ Bulb type: 194 / T10 (TBC)
 Bulb type: 2x ???
 
 ## Rear fog lamps
-Bulb type:
+Bulb type: 
 
 https://www.escape-city.com/threads/2013-escape-kuga-rear-lamps.17767/
 
 
 ## Number plate lamps
-Bulb type:
+Bulb type: 194 / T10
 
 ## 🔙 Reverse lights
 Bulb type: 921 (TBC)
